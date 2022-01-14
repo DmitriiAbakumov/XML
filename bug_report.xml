@@ -3,9 +3,9 @@
 <Summary>Короткое описание:</Summary>
 <Project>Проект:</Project>
 <Severity>Серьезность:</Severity>
-<Priority>Приоритет:</Priority>
+<Priority>Высокий:</Priority>
 <Status>Статус:</Status>
-<Author>Автор:</Author>
+<Author>Дмитрий:</Author>
 <Assigned_To>Назначен на:</Assigned_To>
 <Environment>Окружение:</Environment>
 <STR>Шаги воспроизведения:</STR>
