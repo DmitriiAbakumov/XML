@@ -1,0 +1,15 @@
+<bugreport>
+<ID>ID:</ID>
+<Summary>Короткое описание:</Summary>
+<Project>Проект:</Project>
+<Severity>Серьезность:</Severity>
+<Priority>Приоритет:</Priority>
+<Status>Статус:</Status>
+<Author>Автор:</Author>
+<Assigned_To>Назначен на:</Assigned_To>
+<Environment>Окружение:</Environment>
+<STR>Шаги воспроизведения:</STR>
+<Result>Фактический результат:</Result>
+<Expected_Result>Ожидаемый результат:</Expected_Result>
+<Attachment>Прикрепленный файл:</Attachment>
+</bugreport>
